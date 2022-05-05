@@ -40,3 +40,9 @@ This is my portfolio website that contains various projects I have worked on,my 
 - Website - [Jesufemi Oladapo](jesufemi.dev)
 - LinkedIn - [Jesufemi Oladapo](https://www.linkedin.com/in/jesufemi-oladapo-9bb9ba175/)
 - Twitter - [@jesufemigan](https://www.twitter.com/jesufemigan)
+
+## License
+
+Copyright (c) 2022-present Jesufemi Oladapo. All rights reserved.
+
+The code, design and contents in this repository are intellectual property of the individual mentioned above (unless otherwise stated) and as such CANNOT be copied, modified, sublicensed or redistributed without permission from the author.
