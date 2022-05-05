@@ -29,7 +29,7 @@ const Footer = () => {
             fill='#FFFFFF'
           />
         </svg></a>
-        <a href='https://www.linkedin.com/in/jesufemi-oladapo-9bb9ba175/' target="_blank" rel="noopener noreferrer"><svg
+        <a href='https://www.linkedin.com/in/jesufemi-oladapo/' target="_blank" rel="noopener noreferrer"><svg
           width='20'
           height='20'
           viewBox='0 0 20 20'
