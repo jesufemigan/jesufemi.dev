@@ -63,22 +63,23 @@ const GlobalStyles = createGlobalStyle`
   }
 `
 function App() {
-  const [isDark, setIsDark] = useState(true);
+  const [isDark, setIsDark] = useState(false);
   const toggleMode = () => {
     setIsDark(prev => !prev)
   }
 
-  useEffect(() => {
-    const dark = localStorage.getItem('darkMode');
-    if (dark) {
-      setIsDark(dark)
-    }
-    
-  },[])
+  
   
   useEffect(() => {
-    localStorage.setItem('darkMode', isDark)
+    const dark = localStorage.getItem('darkMode');
+    if (dark === 'dark') {
+      setIsDark(true)
+    }
+  },[])
+  useEffect(() => {
+    localStorage.setItem('darkMode', isDark ? 'dark' : 'light')
   })
+  
   return (
     <>
       <GlobalStyles />
