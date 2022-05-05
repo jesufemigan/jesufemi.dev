@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/jesufemi.dev/static/js/main.0d4a61f8.js",
+    "main.js": "/jesufemi.dev/static/js/main.3c44ee34.js",
     "static/media/ip-address-tracker.png": "/jesufemi.dev/static/media/ip-address-tracker.c4ef1a88ae7ac6fc6ab3.png",
     "static/media/e-commerce-page.png": "/jesufemi.dev/static/media/e-commerce-page.36ce232080c543072176.png",
     "static/media/todo-app.png": "/jesufemi.dev/static/media/todo-app.d524a2de21bb779344e9.png",
@@ -35,9 +35,9 @@
     "static/media/html.svg": "/jesufemi.dev/static/media/html.cd89dc2b8e684f262622e9d9b2cc2cc3.svg",
     "static/media/css.svg": "/jesufemi.dev/static/media/css.19972e125c33f33ef1e796e2c537e5ba.svg",
     "static/media/hamburger.svg": "/jesufemi.dev/static/media/hamburger.07c6b4c1940f2d3833e6d2638c5599aa.svg",
-    "main.0d4a61f8.js.map": "/jesufemi.dev/static/js/main.0d4a61f8.js.map"
+    "main.3c44ee34.js.map": "/jesufemi.dev/static/js/main.3c44ee34.js.map"
   },
   "entrypoints": [
-    "static/js/main.0d4a61f8.js"
+    "static/js/main.3c44ee34.js"
   ]
 }
