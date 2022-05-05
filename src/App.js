@@ -1,5 +1,5 @@
 import { createGlobalStyle } from "styled-components";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
 import { useEffect, useState } from "react";
