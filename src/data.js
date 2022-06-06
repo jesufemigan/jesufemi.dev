@@ -5,8 +5,19 @@ import jobListing from './assets/projectScreenShot/job-listings.png';
 import todo from './assets/projectScreenShot/todo-app.png';
 import interactiveComment from './assets/projectScreenShot/interactive-comment-section.png';
 import launchCountdown from './assets/projectScreenShot/launch-countdown.png';
+import movie from './assets/projectScreenShot/movie-app.png';
 
 export const projects = [
+  {
+    id: 10,
+    title: "Entertainment Movie App",
+    details: "This website allows user to see list of trending, popular, top rated, top grossing, movies and TV series, user can search for any movie or TV Series of their choice, they can also view full details of a movie or TV series, user can also search movie or TV series based on their Genres",
+    tools: ["NextJs", "Sass", "TMDB API"],
+    website: "https://movie-app-jp.netlify.app/",
+    github: "https://github.com/ElpidaHope/entertainment-web-app",
+    image: movie
+  },
+  
   {
     id: 1,
     title: "Ip Address Tracker",
