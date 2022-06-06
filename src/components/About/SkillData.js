@@ -7,7 +7,7 @@ import figmaImg from '../../assets/skills/figma.svg';
 import sassImg from '../../assets/skills/sass.svg';
 import tailwindImg from '../../assets/skills/tailwind.svg';
 import gitImg from '../../assets/skills/git.svg';
-import nextImg from '../assets/skills/nextjs.svg';
+import nextImg from '../../assets/skills/nextjs.svg';
 import styledcomponentImg from '../../assets/skills/styledcomponents.svg';
 
 export const mySkills = [
