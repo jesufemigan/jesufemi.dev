@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.cbda351b.js",
+    "main.js": "/static/js/main.b87dff6d.js",
     "static/media/ip-address-tracker.png": "/static/media/ip-address-tracker.c4ef1a88ae7ac6fc6ab3.png",
     "static/media/movie-app.png": "/static/media/movie-app.191a11121218a75ebb32.png",
     "static/media/e-commerce-page.png": "/static/media/e-commerce-page.36ce232080c543072176.png",
     "static/media/todo-app.png": "/static/media/todo-app.d524a2de21bb779344e9.png",
     "static/media/interactive-comment-section.png": "/static/media/interactive-comment-section.ebf07ba3eafe89cc8f34.png",
     "static/media/url-shortner.png": "/static/media/url-shortner.53b24276ac37dae1bb0e.png",
-    "static/media/Jesufemi_Resume.pdf": "/static/media/Jesufemi_Resume.543e39709bd922c6969f.pdf",
     "static/media/job-listings.png": "/static/media/job-listings.4e940825d9299a484773.png",
     "static/media/launch-countdown.png": "/static/media/launch-countdown.3419f0f8ecd4b8e11a2d.png",
     "static/media/handsome_face.jpg": "/static/media/handsome_face.13dbf29f5a9e522cf07e.jpg",
     "static/media/aboutme.svg": "/static/media/aboutme.b52d3d786e5793c3668e121a585e3c9b.svg",
+    "static/media/Jesufemi_Resume.pdf": "/static/media/Jesufemi_Resume.d3618fbbb5a64fd325d8.pdf",
     "static/media/contactme.svg": "/static/media/contactme.ad5435e472e8575be35b18cbb6cd4e90.svg",
     "static/media/sass.svg": "/static/media/sass.f897a1e1a765a848e120db30fa7ac75f.svg",
     "static/media/react.svg": "/static/media/react.d84e52d679be5bcbc89663109cf82502.svg",
@@ -37,9 +37,9 @@
     "static/media/html.svg": "/static/media/html.cd89dc2b8e684f262622e9d9b2cc2cc3.svg",
     "static/media/css.svg": "/static/media/css.19972e125c33f33ef1e796e2c537e5ba.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.07c6b4c1940f2d3833e6d2638c5599aa.svg",
-    "main.cbda351b.js.map": "/static/js/main.cbda351b.js.map"
+    "main.b87dff6d.js.map": "/static/js/main.b87dff6d.js.map"
   },
   "entrypoints": [
-    "static/js/main.cbda351b.js"
+    "static/js/main.b87dff6d.js"
   ]
 }
