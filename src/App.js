@@ -53,7 +53,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   .dark {
-      background-color: hsl(13,29%,6%);
+      background-color: #27252f;
       color: #ffffff;
   }
 

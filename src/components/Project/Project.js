@@ -12,7 +12,7 @@ const Project = () => {
     <ProjectStyle id="projects">
       <h1>Projects</h1>
       <div className="project-container">
-        {projects.slice(0,4).map(project => (
+        {projects.slice(0,5).map(project => (
           <div className="each-project" key={project.id}>
           <div className="screenshot">
             <img src={project.image} alt={project.title} />

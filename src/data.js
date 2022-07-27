@@ -17,6 +17,15 @@ export const projects = [
     github: "https://github.com/ElpidaHope/entertainment-web-app",
     image: movie
   },
+  {
+    id: 11,
+    title: "Full Stack Todo App",
+    details: "A Full Stack todo app that allow user to register, login, logout, add new todos, mark todos as complete, delete todos, filter todo by all/active/complete, clear all completed todos, also with a light and dark mode",
+    tools: ["ExpressJS", "MongoDB", "React", "React-Redux", "Heroku"],
+    website: "https://fm-fullstacktodoapp.herokuapp.com",
+    github: "https://github.com/ElpidaHope/FullStackTodoApp",
+    image: todo
+  },
   
   {
     id: 1,
@@ -50,7 +59,7 @@ export const projects = [
 
   {
     id: 4,
-    title: "Advance TODO List",
+    title: "A Basic TODO List(Frontend only)",
     details: "An advanced todo list that allow user to  add new todos, mark todos as complete, delete todos, filter todo by all/active/complete, clear all completed todos, also with a light and dark mode",
     tools: ["React", "Context API", "CSS"],
     website: "https://elpidahope.github.io/todo-app/",

@@ -36,7 +36,7 @@ export const AllProjectStyle = styled.section`
     header {
       padding: 50px 30px;
       margin-bottom: 100px;
-
+     
       h1 {
         font-size: 40px;
       }
