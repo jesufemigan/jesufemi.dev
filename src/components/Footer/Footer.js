@@ -41,7 +41,7 @@ const Footer = () => {
             fill='#FFFFFF'
           />
         </svg></a>
-        <a  href='https://github.com/ElpidaHope' target="_blank" rel="noopener noreferrer"><svg
+        <a  href='https://github.com/jesufemigan' target="_blank" rel="noopener noreferrer"><svg
           width='21'
           height='22'
           viewBox='0 0 21 22'

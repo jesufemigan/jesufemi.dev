@@ -27,7 +27,7 @@ const Home = ({isDark, toggleMode}) => {
           <ul className="social-links">
             <a href='mailto:paul.oladapo@yahoo.com' target="_blank" rel="noopener noreferrer"><img src={mail} alt="email" /></a>
             <a href='https://www.linkedin.com/in/jesufemi-oladapo/' target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" /></a>
-            <a  href='https://github.com/ElpidaHope' target="_blank" rel="noopener noreferrer"><img src={github} alt="github" /></a>
+            <a  href='https://github.com/jesufemigan' target="_blank" rel="noopener noreferrer"><img src={github} alt="github" /></a>
             <a  href='https://twitter.com/jesufemigan' target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twitter" /></a>
           </ul>
         </div>
