@@ -6,8 +6,19 @@ import todo from './assets/projectScreenShot/todo-app.png';
 import interactiveComment from './assets/projectScreenShot/interactive-comment-section.png';
 import launchCountdown from './assets/projectScreenShot/launch-countdown.png';
 import movie from './assets/projectScreenShot/movie-app.png';
+import kanban from './assets/projectScreenShot/kanban.png'
 
 export const projects = [
+  
+  {
+    id: 101,
+    title: "Task Management App",
+    details: "A full stack MERN app that allows sign up, login, login with google to manage tasks. User can create, read, update and delete boards and tasks, mark subtasks as done, receive form validation when trying to create/edit board and tasks, hide/show sidebar, toggle between light/dark modes",
+    tools: ["Typescript","NodeJs","ExpressJs","MongoDB", "ReactJs" ,"Sass", "Redux/Redux Toolkit"],
+    website: "https://kanbanapp.onrender.com/",
+    github: "https://github.com/jesufemigan/Kanban-App",
+    image: kanban
+  },
   {
     id: 10,
     title: "Entertainment Movie App",

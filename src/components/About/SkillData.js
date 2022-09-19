@@ -9,6 +9,8 @@ import tailwindImg from '../../assets/skills/tailwind.svg';
 import gitImg from '../../assets/skills/git.svg';
 import nextImg from '../../assets/skills/nextjs.svg';
 import styledcomponentImg from '../../assets/skills/styledcomponents.svg';
+import typescript from '../../assets/skills/typescript.svg'
+import node from '../../assets/skills/nodejs.svg'
 
 export const mySkills = [
   {
@@ -27,6 +29,18 @@ export const mySkills = [
     id: 3,
     name: "JavaScript",
     image: javascriptImg
+  },
+
+  {
+    id: 101,
+    name: "TypeScript",
+    image: typescript
+  },
+
+  {
+    id: 111,
+    name: "NodeJS",
+    image: node
   },
 
   {

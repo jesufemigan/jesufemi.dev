@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
 
       <div className='social-links'>
-        <a href='mailto:paul.oladapo@yahoo.com' target="_blank" rel="noopener noreferrer"><svg
+        <a href='mailto:oladapofemmy@gmail.com' target="_blank" rel="noopener noreferrer"><svg
           width='20'
           height='17'
           viewBox='0 0 20 17'
