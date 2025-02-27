@@ -15,7 +15,8 @@ const About = () => {
         </div>
         <div className="about-me">
           <p>
-            Hi, my name is Jesufemi. I’m a frontend developer based in Lagos, Nigeria. I am passionate about creating dynamic and interactive webpages that make for awesome user experience. I enjoy working with React.
+            Hi, my name is Jesufemi. I'm a software engineer based in Lagos, Nigeria. I'm passionate about designing and developing scalable, efficient, and reliable software solutions that drive innovation and excellence. I enjoy working with cutting-edge technologies and collaborating with teams to deliver high-quality products.
+            .
             <br/>
             <br/>
             I learn very fast and I am always committed to any project I lay my hands on to achieve the best result. 
