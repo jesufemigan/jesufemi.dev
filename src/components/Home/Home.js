@@ -17,8 +17,8 @@ const Home = ({isDark, toggleMode}) => {
         <div className="main-home-container">
           <div className="my-description">
               <h1>Hi, I'm Jesufemi</h1>
-              <h3>A Frontend Developer</h3>
-              <p>I focus on writing clean, readable and maintainable code that make web pages interactive and dynamic for awesome user experience</p>
+              <h3>A Software Engineer</h3>
+              <p>I focus on writing clean, efficient, and modular code that powers cutting-edge software applications, ensuring a seamless and engaging user experience</p>
               <button><Link smooth spy duration={100}to="contact" style={{textDecoration:"none", color:"white"}}>Contact Me</Link></button>
           </div>
           <figure>
@@ -28,7 +28,7 @@ const Home = ({isDark, toggleMode}) => {
             <a href='mailto:oladapofemmy@gmail.com' target="_blank" rel="noopener noreferrer"><img src={mail} alt="email" /></a>
             <a href='https://www.linkedin.com/in/jesufemi-oladapo/' target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" /></a>
             <a  href='https://github.com/jesufemigan' target="_blank" rel="noopener noreferrer"><img src={github} alt="github" /></a>
-            <a  href='https://twitter.com/jesufemigan' target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twitter" /></a>
+            <a  href='https://x.com/jesufemigan' target="_blank" rel="noopener noreferrer"><img src={twitter} alt="twitter" /></a>
           </ul>
         </div>
       </HomeStyle>
