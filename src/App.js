@@ -85,7 +85,7 @@ function App() {
       <GlobalStyles />
       <Router>
         <Helmet>
-          <title>Jesufemi Oladapo: Front-end Developer</title>
+          <title>Jesufemi Oladapo: Software Engineer</title>
           <meta name="description" content="Jesufemi Portfolio"/>
           <meta name="keywords" content="Highly skilled Software Engineer, frontend engineer, Portfolio website"/>
           <meta name="twitter:card" content="app"/>
