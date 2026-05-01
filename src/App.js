@@ -87,7 +87,7 @@ function App() {
         <Helmet>
           <title>Jesufemi Oladapo: Front-end Developer</title>
           <meta name="description" content="Jesufemi Portfolio"/>
-          <meta name="keywords" content="Frontend Developer, frontend engineer, Portfolio website"/>
+          <meta name="keywords" content="Highly skilled Software Engineer, frontend engineer, Portfolio website"/>
           <meta name="twitter:card" content="app"/>
           <meta name="twitter:site" content="" />
           <meta name="twitter:description" content="Jesufemi's Portfolio" />
