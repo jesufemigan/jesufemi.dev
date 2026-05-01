@@ -21,7 +21,7 @@ This is my portfolio website that contains various projects I have worked on,my 
 
 ### Links
 
-- Live Site URL: [Live](jesufemi.dev)
+- Live Site URL: [Live](https://jesufemi-dev.vercel.app/)
 
 ## My process
 
@@ -37,8 +37,8 @@ This is my portfolio website that contains various projects I have worked on,my 
 
 ## Author
 
-- Website - [Jesufemi Oladapo](jesufemi.dev)
-- LinkedIn - [Jesufemi Oladapo](https://www.linkedin.com/in/jesufemi-oladapo-9bb9ba175/)
+- Website - [Jesufemi Oladapo](https://jesufemi-dev.vercel.app/)
+- LinkedIn - [Jesufemi Oladapo](https://www.linkedin.com/in/jesufemi-oladapo)
 - Twitter - [@jesufemigan](https://www.twitter.com/jesufemigan)
 
 ## License
